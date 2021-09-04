@@ -2,7 +2,7 @@
 
 |Title|Advocate|Date|Ver.|
 |:---:|:---:|:---:|:---:|
-|Re-al-city-Agent-2050|Kenichi Shida|2021-09-01|1.9.5|
+|Re-al-city-Agent-2050|Kenichi Shida|2021-09-01|1.9.8|
 
 # はじめに
 
